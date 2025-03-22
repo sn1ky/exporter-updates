@@ -59,30 +59,6 @@ The **Chat Conversation Exporter** is a Python-based tool designed for **Visible
 
 ---
 
-## Configuration
-
-### API Key
-- Replace the `API_KEY` variable in the code with your actual API key:
-  ```python
-  API_KEY = "your_api_key_here"
-  ```
-
-### Custom Fonts
-- If you want to use custom fonts (e.g., for non-English characters), place the `.ttf` or `.otf` files in the project directory and update the font path in the code.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push the branch.
-4. Submit a pull request.
-
----
-
 ## Acknowledgments
 
 - **Visible Vision** for providing the API and use case.
